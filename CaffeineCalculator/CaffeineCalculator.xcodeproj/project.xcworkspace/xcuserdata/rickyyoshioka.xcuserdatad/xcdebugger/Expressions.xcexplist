@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NewEntryViewController.updateDrinkName():NewEntryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newEntryViewControllerFields">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DrinkTableViewController.tableView(_:didSelectRowAt:):DrinkTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewEntryViewController.viewDidLoad():NewEntryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lblDrinkNameInput.text">
+            </PersistentString>
+            <PersistentString
+               value = "selectedLabelText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EntryInformationViewController.viewDidLoad():EntryInformationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "existingDrink.drinkCategory">
+            </PersistentString>
+            <PersistentString
+               value = "existingDrink.drinkName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CaffeineGraphSwiftUIView.body.getter:CaffeineGraphSwiftUIView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalDailyCaffeine">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
