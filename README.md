@@ -58,11 +58,3 @@ To run the project locally:
 3. Build and run on a simulator or physical device
 
 ---
-
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-Feel free to customize it further with links to the project repo, screenshots, or even a short demo video!
