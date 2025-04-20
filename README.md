@@ -2,6 +2,9 @@
 
 A mobile app designed to help users monitor and manage their daily caffeine intake. The app tracks consumption, estimates caffeine levels in the body over time, and visualizes trends through interactive graphs.
 
+
+https://github.com/user-attachments/assets/69ceaef2-0143-4474-8f79-5a64eb2775ff
+
 ---
 
 ## 📱 Features
