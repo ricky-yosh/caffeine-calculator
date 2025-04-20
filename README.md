@@ -42,10 +42,18 @@ This project was developed as part of a class assignment to explore mobile app d
 
 ## 📸 Screenshots
 
-<img src="readme-images/loading-page.png" alt="loading page" width="300"/>\
+<p align="center">
+<img src="readme-images/loading-page.png" alt="loading page" width="300"/>
+</p>
+<p align="center">
 <img src="readme-images/starting-page.png" alt="starting page" width="300"/>\
+</p>
+<p align="center">
 <img src="readme-images/home-dashboard.png" alt="home dashboard" width="300"/>\
+</p>
+<p align="center">
 <img src="readme-images/input-drink-page.png" alt="input drink page" width="300"/>
+</p>
 
 ---
 
